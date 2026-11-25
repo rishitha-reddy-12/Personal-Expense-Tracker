@@ -60,3 +60,20 @@ python expense_tracker.py
 
 ## Project Type
 Beginner-Level Python Mini Project
+
+## Project Screenshots
+
+### 1. Main Menu
+![Main Menu](screenshots/MainMenu.png)
+
+### 2. View Expenses
+![View Expenses](screenshots/ViewExpenses.png)
+
+### 3. Category-wise Summary
+![Category Summary](screenshots/CategoryWise.png)
+
+### 4. Monthly Budget Report
+![Budget Report](screenshots/MonthlyBudget.png)
+
+### 5. Overall Expense Report
+![Overall Report](screenshots/OverallExpenses.png)
